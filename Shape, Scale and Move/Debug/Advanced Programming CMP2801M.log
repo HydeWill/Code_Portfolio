@@ -1,0 +1,8 @@
+﻿  Advanced Programming CMP2801M.cpp
+C:\Users\willi\OneDrive\Documents\Uni work\Year 2\Advanced Computing\Assignment\Advanced Programming CMP2801M\Circle.h(13,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\willi\OneDrive\Documents\Uni work\Year 2\Advanced Computing\Assignment\Advanced Programming CMP2801M\Advanced Programming CMP2801M.cpp(75,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\willi\OneDrive\Documents\Uni work\Year 2\Advanced Computing\Assignment\Advanced Programming CMP2801M\Advanced Programming CMP2801M.cpp(75,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\willi\OneDrive\Documents\Uni work\Year 2\Advanced Computing\Assignment\Advanced Programming CMP2801M\Advanced Programming CMP2801M.cpp(96,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\willi\OneDrive\Documents\Uni work\Year 2\Advanced Computing\Assignment\Advanced Programming CMP2801M\Advanced Programming CMP2801M.cpp(135,17): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\willi\OneDrive\Documents\Uni work\Year 2\Advanced Computing\Assignment\Advanced Programming CMP2801M\Advanced Programming CMP2801M.cpp(165,17): warning C4018: '<=': signed/unsigned mismatch
+  Advanced Programming CMP2801M.vcxproj -> C:\Users\willi\OneDrive\Documents\Uni work\Year 2\Advanced Computing\Assignment\Advanced Programming CMP2801M\Debug\Advanced Programming CMP2801M.exe
