@@ -1,2 +1,2 @@
 # Code_Portfolio
-Portfolio to display code that I have worked on
+Coding portfolio for displaying and storage of University computer science code
