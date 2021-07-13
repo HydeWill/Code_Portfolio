@@ -1,0 +1,14 @@
+C:\Users\willi\OneDrive\Documents\Uni work\Programming and data structures\Assignments\Assignment 2\CMP1127M Hex to RGB\CMP1127M Hex to RGB\bin\Debug\CMP1127M Hex to RGB.exe.config
+C:\Users\willi\OneDrive\Documents\Uni work\Programming and data structures\Assignments\Assignment 2\CMP1127M Hex to RGB\CMP1127M Hex to RGB\bin\Debug\CMP1127M Hex to RGB.exe
+C:\Users\willi\OneDrive\Documents\Uni work\Programming and data structures\Assignments\Assignment 2\CMP1127M Hex to RGB\CMP1127M Hex to RGB\bin\Debug\CMP1127M Hex to RGB.pdb
+C:\Users\willi\OneDrive\Documents\Uni work\Programming and data structures\Assignments\Assignment 2\CMP1127M Hex to RGB\CMP1127M Hex to RGB\obj\Debug\CMP1127M Hex to RGB.csprojAssemblyReference.cache
+C:\Users\willi\OneDrive\Documents\Uni work\Programming and data structures\Assignments\Assignment 2\CMP1127M Hex to RGB\CMP1127M Hex to RGB\obj\Debug\CMP1127M Hex to RGB.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Documents\Uni work\Programming and data structures\Assignments\Assignment 2\CMP1127M Hex to RGB\CMP1127M Hex to RGB\obj\Debug\CMP1127M Hex to RGB.exe
+C:\Users\willi\OneDrive\Documents\Uni work\Programming and data structures\Assignments\Assignment 2\CMP1127M Hex to RGB\CMP1127M Hex to RGB\obj\Debug\CMP1127M Hex to RGB.pdb
+C:\Users\Will\OneDrive\Documents\Uni work\Year 1\Programming and data structures\Assignments\Assignment 2\CMP1127M Hex to RGB\CMP1127M Hex to RGB\bin\Debug\CMP1127M Hex to RGB.exe.config
+C:\Users\Will\OneDrive\Documents\Uni work\Year 1\Programming and data structures\Assignments\Assignment 2\CMP1127M Hex to RGB\CMP1127M Hex to RGB\bin\Debug\CMP1127M Hex to RGB.exe
+C:\Users\Will\OneDrive\Documents\Uni work\Year 1\Programming and data structures\Assignments\Assignment 2\CMP1127M Hex to RGB\CMP1127M Hex to RGB\bin\Debug\CMP1127M Hex to RGB.pdb
+C:\Users\Will\OneDrive\Documents\Uni work\Year 1\Programming and data structures\Assignments\Assignment 2\CMP1127M Hex to RGB\CMP1127M Hex to RGB\obj\Debug\CMP1127M Hex to RGB.csproj.AssemblyReference.cache
+C:\Users\Will\OneDrive\Documents\Uni work\Year 1\Programming and data structures\Assignments\Assignment 2\CMP1127M Hex to RGB\CMP1127M Hex to RGB\obj\Debug\CMP1127M Hex to RGB.csproj.CoreCompileInputs.cache
+C:\Users\Will\OneDrive\Documents\Uni work\Year 1\Programming and data structures\Assignments\Assignment 2\CMP1127M Hex to RGB\CMP1127M Hex to RGB\obj\Debug\CMP1127M Hex to RGB.exe
+C:\Users\Will\OneDrive\Documents\Uni work\Year 1\Programming and data structures\Assignments\Assignment 2\CMP1127M Hex to RGB\CMP1127M Hex to RGB\obj\Debug\CMP1127M Hex to RGB.pdb
